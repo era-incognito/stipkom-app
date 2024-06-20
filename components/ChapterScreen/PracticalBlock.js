@@ -131,9 +131,11 @@ const styles = StyleSheet.create({
     textAlign: 'center',
   },
   optionButtonContainer: {
+    width: '100%',
     marginBottom: 10,
   },
   optionButton: {
+    width: '100%',
     backgroundColor: colors.secondary,
     paddingVertical: 15,
     paddingHorizontal: 20,
